@@ -1,8 +1,8 @@
 ### 🛠 &nbsp;Tech Stack
 
-![Next](https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg) (https://img.shields.io/badge/-Nest-05122A?style=flat&logo=nest)&nbsp;
+![VueJS](https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg)&nbsp;
 ![Nest](https://img.shields.io/badge/-Nest-05122A?style=flat&logo=nest)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue)&nbsp;
+![VueJS](https://img.shields.io/badge/-VueJS-05122A?style=flat&logo=vue-js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
