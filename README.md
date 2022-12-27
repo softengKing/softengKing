@@ -1,7 +1,8 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Hey Everyone<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
 
-👀 I’m interested in Machine Learning, DSA, Open Source and Many more 😄<br/>
+👋🏻 Hiya, I’m a FullStack developer ✌🏻 <br/> 
+👀 I’m interested in Blockchain, DSA, Open Source and Many more 😄<br/>
 🌱 Trying to learn new technologies and try to keep myself busy 🤵🏻 <br/>
 👨🏻‍💻 Currently exploring Open Source field 📱</br>
 💞️ I’m open for collaboration on every interesting project/stuff ✌🏻<br/>
