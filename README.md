@@ -9,7 +9,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![VueJS](https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg height=10)&nbsp;
+<img src="https://github.com/oHTGo/oHTGo/blob/main/images/vue.svg" alt="JavaScript" height="10"/>
 ![Nest](https://img.shields.io/badge/-Nest-05122A?style=flat&logo=nest)&nbsp;
 ![VueJS](https://img.shields.io/badge/-VueJS-05122A?style=flat&logo=vue-js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
