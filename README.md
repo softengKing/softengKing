@@ -1,5 +1,7 @@
 ### 🛠 &nbsp;Tech Stack
 
+![Python](https://img.shields.io/badge/-Next-05122A?style=flat&logo=next)&nbsp;
+![Python](https://img.shields.io/badge/-Nest-05122A?style=flat&logo=nest)&nbsp;
 ![Python](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue)&nbsp;
 ![Python](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
