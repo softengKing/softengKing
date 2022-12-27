@@ -1,6 +1,6 @@
 ### 🛠 &nbsp;Tech Stack
 
-![Next](https://img.shields.io/badge/-Next-05122A?style=flat&logo=next)&nbsp;
+![Next]("https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg)&nbsp;
 ![Nest](https://img.shields.io/badge/-Nest-05122A?style=flat&logo=nest)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
