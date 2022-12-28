@@ -115,6 +115,18 @@
   </tr>
    <tr>
     <td align="center" width="96">
+      <a href="#ethereum" >
+        <img src="./ethereum.svg" width="30" height="30" alt="ethereum" />
+      </a>
+      <br>Ethereum
+    </td>
+    <td align="center" width="96">
+      <a href="#cardano" >
+        <img src="./cardano.png" width="30" height="30" alt="cardano" />
+      </a>
+      <br>Cardano
+    </td>
+    <td align="center" width="96">
       <a href="#aws" >
         <img src="./aws.svg" width="30" height="30" alt="aws" />
       </a>
