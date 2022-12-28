@@ -35,6 +35,12 @@
       </a>
       <br>Javascript
     </td>
+    <td align="center" width="60">
+      <a href="#vuejs">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="30" height="30" alt="reactjs" />
+      </a>
+      <br>React JS
+    </td>
      <td align="center" width="60">
       <a href="#vuejs">
         <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="30" height="30" alt="Vuejs" />
