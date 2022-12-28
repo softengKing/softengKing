@@ -44,6 +44,13 @@
     </td>
      <td align="center" width="60">
       <a href="#vuejs">
+        <img src="./next-js.svg" width="30" height="30" alt="Vuejs" />
+      </a>
+      <br>Next JS
+    </td>
+    </td>
+     <td align="center" width="60">
+      <a href="#vuejs">
         <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="30" height="30" alt="Vuejs" />
       </a>
       <br>Vue JS
