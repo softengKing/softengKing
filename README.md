@@ -76,8 +76,8 @@
       <br>Laravel
     </td>
       <td align="center" width="60">
-      <a href="#laravel">
-        <img src="https://www.logo.wine/a/logo/nestjs/nestjs-Logo.wine.svg" width="30" height="30" alt="Laravel" />
+      <a href="#nestjs">
+        <img src="./nestjs.svg" width="30" height="30" alt="nest js" />
       </a>
       <br>Nest JS
     </td>
