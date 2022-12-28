@@ -9,7 +9,6 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Nest]<img src="https://github.com/oHTGo/oHTGo/blob/main/images/c.svg" alt="C" height="10"/>&nbsp;
 ![Nest](https://img.shields.io/badge/-Nest-05122A?style=flat&logo=nest)&nbsp;
 ![VueJS](https://img.shields.io/badge/-VueJS-05122A?style=flat&logo=vue-js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
