@@ -65,7 +65,7 @@
   </tr>
   <tr>
     <td align="center" width="60">
-      <a href="#nestjs">
+      <a href="#nodejs">
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="30" height="30" alt="nest js" />
       </a>
       <br>Node JS
