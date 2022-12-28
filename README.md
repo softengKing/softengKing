@@ -89,7 +89,7 @@
     </td>     
     <td align="center" width="60">
       <a href="#MongoDB">
-        <img src="https://www.logo.wine/a/logo/MongoDB/MongoDB-Logo.wine.svg" width="30" height="30" alt="MongoDB" />
+        <img src="./mongodb.svg" width="30" height="30" alt="MongoDB" />
       </a>
       <br>MongoDB
     </td>
