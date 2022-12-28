@@ -162,11 +162,5 @@
       </a>
       <br>Postman
     </td>
-      <td align="center" width="96">
-      <a href="#vuepress" >
-        <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" width="30" height="30" alt="Git" />
-      </a>
-      <br>VuePress
-    </td>
   </tr>
 </table>
