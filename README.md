@@ -77,7 +77,7 @@
     </td>
       <td align="center" width="60">
       <a href="#nestjs">
-        <img src="./nestjs.svg" width="30" height="30" alt="nest js" />
+        <img src="./nestjs.png" width="30" height="30" alt="nest js" />
       </a>
       <br>Nest JS
     </td>
