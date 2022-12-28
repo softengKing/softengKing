@@ -106,9 +106,9 @@
       <br>TypeScript
     </td>
      <td align="center" width="60">
-        <a href="#livewire">
-            <img src="https://i0.wp.com/laravel-livewire.com/img/twitter.png" width="30" height="30"
-                alt="livewire" />
+        <a href="#babylonjs">
+            <img src="./babylon.png" width="30" height="30"
+                alt="babylonjs" />
         </a>
         <br>Babylon JS
     </td>  
