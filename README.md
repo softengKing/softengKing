@@ -44,7 +44,7 @@
       <br>React JS
     </td>
      <td align="center" width="60">
-      <a href="#vuejs">
+      <a href="#nextjs">
         <img src="./next-js.svg" width="30" height="30" alt="Vuejs" />
       </a>
       <br>Next JS
