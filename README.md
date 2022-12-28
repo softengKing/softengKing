@@ -108,7 +108,7 @@
      <td align="center" width="60">
         <a href="#babylonjs">
           <img src="./babylon.png" width="30" height="30"
-                alt="babylonjs" />
+                alt="babylonjs"/>
         </a>
         <br>Babylon JS
     </td>  
