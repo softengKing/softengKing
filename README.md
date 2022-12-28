@@ -110,18 +110,17 @@
             <img src="https://i0.wp.com/laravel-livewire.com/img/twitter.png" width="30" height="30"
                 alt="livewire" />
         </a>
-        <br>Livewire
-    </td>
-    <td align="center" width="96">
-        <a href="#alpinejs">
-            <img src="https://seeklogo.com/images/A/alpine-js-logo-21F4169EAB-seeklogo.com.png" width="30"
-                height="30" alt="alpinejs" />
-        </a>
-        <br>Alpine JS
-    </td>
+        <br>Babylon JS
+    </td>  
   </tr>
    <tr>
-      <td align="center" width="96">
+    <td align="center" width="96">
+      <a href="#aws" >
+        <img src="./aws.svg" width="30" height="30" alt="aws" />
+      </a>
+      <br>AWS
+    </td>
+    <td align="center" width="96">
       <a href="#ubuntu" >
         <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="30" height="30" alt="ubuntu" />
       </a>
