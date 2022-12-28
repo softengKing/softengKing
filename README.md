@@ -63,25 +63,31 @@
     </td>
   </tr>
   <tr>
-     <td align="center" width="60">
-      <a href="#nuxtjs" >
-        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="30" height="30" alt="PHP" />
+    <td align="center" width="60">
+      <a href="#nestjs">
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="30" height="30" alt="nest js" />
       </a>
-      <br>PHP
+      <br>Node JS
     </td>
-      <td align="center" width="60">
-      <a href="#laravel">
-        <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="30" height="30" alt="Laravel" />
-      </a>
-      <br>Laravel
-    </td>
-      <td align="center" width="60">
+    <td align="center" width="60">
       <a href="#nestjs">
         <img src="./nestjs.png" width="30" height="30" alt="nest js" />
       </a>
       <br>Nest JS
     </td>
-      <td align="center" width="60">
+    <td align="center" width="60">
+      <a href="#nuxtjs" >
+        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="30" height="30" alt="PHP" />
+      </a>
+      <br>PHP
+    </td>
+    <td align="center" width="60">
+      <a href="#laravel">
+        <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="30" height="30" alt="Laravel" />
+      </a>
+      <br>Laravel
+    </td>     
+    <td align="center" width="60">
       <a href="#laravel">
         <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="30" height="30" alt="Laravel" />
       </a>
