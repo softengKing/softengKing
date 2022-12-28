@@ -1,7 +1,8 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Hey Everyone <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
 
-👋🏻 I’m a FullStack developer ✌🏻 <br/> 
+👋🏻 I’m a FullStack developer ✌🏻 <br/>
 👀 I’m interested in Blockchain, DSA, Open Source and Many more 😄<br/>
 🌱 Trying to learn new technologies and try to keep myself busy 🤵🏻 <br/>
 👨🏻‍💻 Currently exploring Open Source field 📱</br>
@@ -54,8 +55,6 @@
       <br>Nuxt JS
     </td>
   </tr>
->>>>>>> 07b561ee69382919f25f6611818d1f381f27482f
-
   <tr>
      <td align="center" width="60">
       <a href="#nuxtjs" >
