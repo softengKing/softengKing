@@ -65,7 +65,7 @@
   <tr>
     <td align="center" width="60">
       <a href="#https://angular.io/">
-        <img src="https://www.vectorlogo.zone/logos/angularjs/angularjs-icon.svg" width="30" height="30" alt="nest js" />
+        <img src="./angular.svg" width="30" height="30" alt="nest js" />
       </a>
       <br>Angular JS
     </td>
