@@ -26,7 +26,7 @@
     </td>
      <td align="center" width="60">
       <a href="#bootstrap">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="30" height="30" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
