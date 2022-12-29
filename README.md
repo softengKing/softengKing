@@ -64,6 +64,12 @@
   </tr>
   <tr>
     <td align="center" width="60">
+      <a href="#https://angular.io/">
+        <img src="https://www.vectorlogo.zone/logos/angularjs/angularjs-icon.svg" width="30" height="30" alt="nest js" />
+      </a>
+      <br>Angular JS
+    </td>
+    <td align="center" width="60">
       <a href="#nestjs">
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="30" height="30" alt="nest js" />
       </a>
@@ -155,8 +161,10 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="30" height="30" alt="Jamstack" />
       </a>
       <br>VS Code
-    </td>
-      <td align="center" width="96">
+    </td>    
+  </tr>
+  <tr>
+    <td align="center" width="96">
       <a href="#postman" >
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30" height="30" alt="Git" />
       </a>
