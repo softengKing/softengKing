@@ -61,14 +61,14 @@
       </a>
       <br>Nuxt JS
     </td>
-  </tr>
-  <tr>
     <td align="center" width="60">
       <a href="#https://angular.io/">
-        <img src="./angular.svg" width="30" height="30" alt="nest js" />
+        <img src="./angular.svg" width="30" height="30" alt="angular" />
       </a>
-      <br>Angular JS
+      <br>Angular
     </td>
+  </tr>
+  <tr>
     <td align="center" width="60">
       <a href="#nestjs">
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="30" height="30" alt="nest js" />
@@ -93,6 +93,12 @@
       </a>
       <br>Laravel
     </td>     
+     <td align="center" width="60">
+      <a href="#ts">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="30" height="30" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
     <td align="center" width="60">
       <a href="#MongoDB">
         <img src="./mongodb.svg" width="30" height="30" alt="MongoDB" />
@@ -105,11 +111,11 @@
       </a>
       <br>MySQL
     </td>
-     <td align="center" width="60">
-      <a href="#ts">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="30" height="30" alt="TypeScript" />
+    <td align="center" width="60">
+      <a href="#oracle">
+        <img src="./oracle.png" width="30" height="30" alt="Oracle" />
       </a>
-      <br>TypeScript
+      <br>Oracle
     </td>
      <td align="center" width="60">
         <a href="#babylonjs">
@@ -162,13 +168,11 @@
       </a>
       <br>VS Code
     </td>    
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="#postman" >
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30" height="30" alt="Git" />
       </a>
       <br>Postman
     </td>
-  </tr>
+  </tr>  
 </table>
