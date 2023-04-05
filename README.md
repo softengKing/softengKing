@@ -10,7 +10,23 @@
 
 <br/>
 <p align="center">
-    <a href="https://github.com/mzaeemnasir">
+    <a href="https://github.com/softengKing">
         <img title="Streak Stats" alt="Slecken" src="https://github-readme-streak-stats.herokuapp.com/?user=softengKing&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+
+## 📊 My Github Stats
+
+<p align =center>
+<br/>
+    <a href="htpps://github.com/softengKing"><img alt="Slecken Github Stats" src="https://github-readme-stats.vercel.app/api?username=softengKing&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=060A0CD0"/></a>
+    <a href="https://github.com/softengKing"><img alt="Slecken's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softengKing&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<br/>
+<br/>
+
+</p>
+<a href="https://github.com/softengKing"><img alt="Slecken's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=softengKing&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
